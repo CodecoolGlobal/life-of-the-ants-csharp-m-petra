@@ -43,12 +43,12 @@
         </member>
         <member name="P:Codecool.LifeOfAnts.Position.X">
             <summary>
-                Gets X coordinate
+                Gets and Sets X coordinate
             </summary>
         </member>
         <member name="P:Codecool.LifeOfAnts.Position.Y">
             <summary>
-                Gets Y coordinate
+                Gets and Sets Y coordinate
             </summary>
         </member>
         <member name="T:Codecool.LifeOfAnts.Program">
